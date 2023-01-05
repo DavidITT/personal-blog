@@ -1,2 +1,2 @@
 # Blog
-# Proyecto de un blog con laravel 
+## Proyecto de un blog con laravel 
